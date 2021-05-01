@@ -40,7 +40,7 @@ indicative of what new features we should be creating as a company.
 ## Steps  
 1. Access, Clean and Analyze Data
 we wil plot histogram to for Univarient analysis
-![](Histrogram.png)
+![](Histogram.png)
 Now we will se correlation with response variable.
 ![](correlation.png)
 Correlation Matrix
