@@ -1,4 +1,4 @@
-# Minimize_chrun_rate
+# Minimize_churn_rate
 
 Minimizing Churn Rate Through Analysis of Financial Habits
 
